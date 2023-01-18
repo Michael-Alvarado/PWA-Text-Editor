@@ -21,6 +21,7 @@
   ## Usage
   
   Start the server using the 'start' script in the package.json file
+  [Link to deployed app](https://aqueous-depths-99122.herokuapp.com/)
 
   ## License
   
